@@ -23,4 +23,6 @@ Configuration:
 
 we creating e2-micro clusters in the GCP. 
 
+More Details : https://docs.google.com/document/d/1zfYt-LlwV1O0YmOtREzhLd_RZC9wwmesRDTUN7tjTI0
+
 
